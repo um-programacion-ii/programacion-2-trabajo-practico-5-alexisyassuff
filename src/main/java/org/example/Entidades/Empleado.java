@@ -11,8 +11,8 @@ import java.util.Set;
 @Entity
 @Table(name = "empleados")
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
+@NoArgsConstructor
 public class Empleado {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -24,10 +24,11 @@ public class Empleado {
     @Column(nullable = false, length = 100)
     private String apellido;
 
-    @Column(unique = true, nullable = false)
+    @Column(nullable = false, unique = true)
     private String email;
 
-    @Column(name = "fecha_contratacion", nullable = false)
+    @Column(name = "fehca_contratacion", nullable = false)
+    @Temporal(TemporalType.DATE)
     private LocalDate fechaContratacion;
 
     @Column(nullable = false, precision = 10, scale = 2)
@@ -45,4 +46,3 @@ public class Empleado {
     )
     private Set<Proyecto> proyectos = new HashSet<>();
 }
-
