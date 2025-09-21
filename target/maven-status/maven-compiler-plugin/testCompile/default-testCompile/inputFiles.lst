@@ -1,1 +1,10 @@
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/Controladores/DepartamentoControllerTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/Controladores/EmpleadoControllerTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/Controladores/ProyectoControllerTest.java
 /home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/DemoApplicationTests.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/Repositorios/DepartamentoRepositorioTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/Repositorios/EmpleadoRepositorioTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/Repositorios/ProyectoRepositorioTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/ServiciosImpl/DepartamentoServiceImplTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/ServiciosImpl/EmpleadoServiceImplTest.java
+/home/alexis-yassuff/IdeaProjects/empleados/src/test/java/com/example/demo/ServiciosImpl/ProyectoServiceImplTest.java

@@ -12,6 +12,7 @@ org/example/Excepciones/GlobalExceptionHandler.class
 org/example/Entidades/Proyecto.class
 org/example/Controladores/EmpleadoControladores.class
 org/example/Excepciones/DepartamentoNoEncontradoException.class
+org/example/Tp5Application.class
 org/example/Excepciones/ProyectoNoEncontradoException.class
 org/example/Controladores/DepartamentoControladores.class
 org/example/Repositorios/EmpleadoRepositorio.class
