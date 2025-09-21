@@ -1,0 +1,7 @@
+com/example/demo/Repositorios/ProyectoRepositorioTest.class
+com/example/demo/Repositorios/EmpleadoRepositorioTest.class
+com/example/demo/Controladores/ProyectoControllerTest.class
+com/example/demo/Repositorios/DepartamentoRepositorioTest.class
+com/example/demo/Controladores/DepartamentoControllerTest.class
+com/example/demo/Controladores/EmpleadoControllerTest.class
+com/example/demo/DemoApplicationTests.class
